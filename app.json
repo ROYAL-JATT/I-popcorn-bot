@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
-    "website": "https://telegram.dog/RoyalKrrishna",
-    "success_url": "https://t.me/mdisksearchroBot",
+    "repository": "https://github.com/ROYAL-JATT/I-popcorn-bot",
+    "website": "https://github.com/ROYAL-JATT/I-popcorn-bot",
+    "success_url": "https://github.com/ROYAL-JATT/I-popcorn-bot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
